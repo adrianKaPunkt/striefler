@@ -24,7 +24,7 @@ const Justicia = () => {
         id="justicia"
         src={justicia}
         alt="justicia"
-        className="z-9 fixed invisible xl:visible top-40 right-[-100px] blur-[1px] drop-shadow-2xl sepia hover:sepia-0 hover:hue-rotate-60"
+        className="z-9 fixed w-2/3 top-40 right-0 blur-[1px] drop-shadow-2xl sepia hover:sepia-0 hover:hue-rotate-60"
       />
     </div>
   )
