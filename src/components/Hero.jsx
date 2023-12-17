@@ -7,7 +7,9 @@ const Hero = () => {
         className="flex justify-center w-full h-screen bg-cover"
         style={{ backgroundImage: `url(${heroImg})` }}>
         <div className="w-[80%] flex pt-60 relative">
-          <h1 className="text-pink-700 text-8xl">0177 657889</h1>
+          <a href="tel:+496946994106" className="text-pink-700 text-8xl">
+            069 46 99 41 06
+          </a>
         </div>
       </div>
     </section>
